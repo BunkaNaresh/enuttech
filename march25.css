@@ -1,0 +1,153 @@
+body{
+    overflow-x: hidden;
+}
+.bg{
+    background-color: rgb(9, 9, 29);
+}
+.tell:hover{
+color: rgb(71, 71, 236);
+}
+.bell:hover{
+    color: rgb(224, 224, 11);
+}
+.imz{
+    padding-left: 150px;
+}
+.bbbb:hover{
+    color: red;
+}
+.line{
+    float: right;
+}
+.main{
+    background: url("https://img.freepik.com/free-photo/group-young-business-people-working-office_158595-5210.jpg?w=1060&t=st=1679728317~exp=1679728917~hmac=3e5c3a695e50699b7542a74886e1d97077feb89502d277535661e81165be9d7d");
+    background-size: cover;
+    width: 100%;
+    height: 870px;
+    margin-top: -128px;
+    animation-name: ani;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+}
+@keyframes ani{
+   0%{
+    background-image: url("https://img.freepik.com/free-photo/group-young-business-people-working-office_158595-5210.jpg?w=1060&t=st=1679728317~exp=1679728917~hmac=3e5c3a695e50699b7542a74886e1d97077feb89502d277535661e81165be9d7d");
+   }
+    25%{
+        background-image: url("https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=1060&t=st=1679834810~exp=1679835410~hmac=2a72119ccd024c247cf6eb6b8976601c0e4fcc6ecd5dfbb3874fb64401d40f6a");
+    }
+    50%{
+        background-image: url("https://t3.ftcdn.net/jpg/05/84/33/62/240_F_584336275_HePc9tc7gkCLM7v51Sr397BSIwW2qI8F.jpg");
+    }
+    100%{
+        background-image: url("https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150061967.jpg?w=1060&t=st=1679835591~exp=1679836191~hmac=429ccd8399ad92f89963215222aa9b9be7e01571f130aff7c1e052f78c8506f0");
+    }
+}
+.tech{
+    background-color: rgb(141, 131, 161);
+    width: 500px;
+    height: 5px;
+    margin-left: 400px;
+}
+.ourservices{
+    background:  url(https://img.freepik.com/free-photo/red-black-brush-stroke-banner-background-perfect-canva_1361-3597.jpg?w=1060&t=st=1679909493~exp=1679910093~hmac=18504cefc0dfe134b7affc186b54a840b744433443a00610ad7e783ae93aa273);
+    background-size: cover;
+    height: 600px;
+
+}
+.min{
+    padding-top: 150px;
+    position: relative;
+    animation-name: com;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+@keyframes com{
+    25%{
+        background: url("");
+        margin-left: 180px;        
+
+    }
+}
+.frame{
+    width: 100%;
+    height: 10px;
+    padding-top: 70px;
+    margin-left: 70px;
+}
+.linee{
+    background-color: white;
+    width: 200px;
+    height: 2px;
+    margin-left: 650px;
+    margin-top: 20px;
+}
+.brr{
+    margin-left: 150px;
+    padding-top: 30px;
+}
+.whychoose{
+    color: rgb(11, 0, 0);
+    width: 10%;
+    height: 20px;
+}
+.whyline, .whatsay{
+    background-color: black;
+    width: 630px;
+    height: 2px;
+}
+.whylin, .whatse{
+    background-color: black;
+    width: 30px;
+    height: 4px;
+    margin-bottom: 80px;
+}
+.boxx{
+    box-shadow: 3px 2px 4px 4px;
+    width: 50px;
+    height: 200px;
+    background-image: url(https://img.freepik.com/free-vector/gradient-glassmorphism-background_23-2149447861.jpg?w=1060&t=st=1679914774~exp=1679915374~hmac=f43aacb3754270388f22895d6b5b0b87ebb1dedd355da96ffcd54d0b4c2af9cd);
+    background-position: center;
+}
+.ourline{
+    background-color: black;
+    width: 1250px;
+    height: 2px;
+}
+.ourlin{
+    background-color: black;
+    width: 40px;
+    height: 5px;
+    margin-bottom: 26px;
+}
+.ourclints{
+    text-align: center;
+    width: 280px;
+    height: 220px;
+}
+.foot{
+    background-color: black;
+    width: 100%;
+    height: 370px;
+}
+.ico:hover{
+    color: rgb(0, 183, 255);
+}
+.footline{
+    background-color: aliceblue;
+    width: 288px;
+    height: 0.5px;
+    margin-bottom: 20px;
+}
+.footlin{
+    color: white;
+    width: 10px;
+    height: 10px;
+}
+.vin img{
+    width: 280px;
+    height: 150px;
+}
+.hovv:hover{
+    color: red;
+}
